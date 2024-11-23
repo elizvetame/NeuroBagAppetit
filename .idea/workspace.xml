@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8cc33e89-b015-4f72-be67-d20b92a28cce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PythonProject3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cybergarden2024" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/school/AndroidSample/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/school/AndroidSample/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/school/AndroidSample/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/school/AndroidSample/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/school/AndroidSample/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/school/AndroidSample/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/school/AndroidSample/app/src/main/java/com/example/callibriecgdemo/CallibriController.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/school/AndroidSample/app/src/main/java/com/example/callibriecgdemo/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/school/AndroidSample/app/src/main/java/com/example/callibriecgdemo/MainApplication.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/school/AndroidSample/app/src/main/java/com/example/callibriecgdemo/MainScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/school/AndroidSample/app/src/main/java/com/example/callibriecgdemo/MainScreenViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/school/AndroidSample/app/src/main/java/com/example/callibriecgdemo/ui/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/school/AndroidSample/app/src/main/java/com/example/callibriecgdemo/ui/theme/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/school/AndroidSample/app/src/main/java/com/example/callibriecgdemo/ui/theme/Type.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/school/AndroidSample/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/school/AndroidSample/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/school/AndroidSample/app/src/main/res/mipmap-anydpi/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/school/AndroidSample/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/school/AndroidSample/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/school/AndroidSample/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/school/AndroidSample/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/school/AndroidSample/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/school/AndroidSample/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/school/AndroidSample/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/school/AndroidSample/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/school/AndroidSample/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/school/AndroidSample/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/school/AndroidSample/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/school/AndroidSample/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/school/AndroidSample/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/school/AndroidSample/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/school/AndroidSample/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/school/AndroidSample/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/school/AndroidSample/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/school/AndroidSample/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/school/AndroidSample/gradle/libs.versions.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/school/AndroidSample/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/school/AndroidSample/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/school/AndroidSample/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/school/AndroidSample/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/school/AndroidSample/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/school/PythonSample (Console)/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/school/PythonSample (Console)/callibri_ecg_console_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/school/PythonSample (PyQt)/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/school/PythonSample (PyQt)/callibri_controller.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/school/PythonSample (PyQt)/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/school/PythonSample (PyQt)/ui/MainWindow.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/AndroidSample/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/AndroidSample/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/AndroidSample/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/AndroidSample/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/AndroidSample/app/src/androidTest/java/com/example/emotionsdemo/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/AndroidSample/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/AndroidSample/app/src/main/java/com/example/emotionsdemo/BrainBitController.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/AndroidSample/app/src/main/java/com/example/emotionsdemo/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/AndroidSample/app/src/main/java/com/example/emotionsdemo/MainApplication.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/AndroidSample/app/src/main/java/com/example/emotionsdemo/MainScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/AndroidSample/app/src/main/java/com/example/emotionsdemo/MainScreenViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/AndroidSample/app/src/main/java/com/example/emotionsdemo/ui/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/AndroidSample/app/src/main/java/com/example/emotionsdemo/ui/theme/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/AndroidSample/app/src/main/java/com/example/emotionsdemo/ui/theme/Type.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/AndroidSample/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/AndroidSample/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/AndroidSample/app/src/main/res/mipmap-anydpi/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/AndroidSample/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/AndroidSample/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/AndroidSample/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/AndroidSample/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/AndroidSample/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/AndroidSample/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/AndroidSample/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/AndroidSample/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/AndroidSample/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/AndroidSample/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/AndroidSample/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/AndroidSample/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/AndroidSample/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/AndroidSample/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/AndroidSample/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/AndroidSample/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/AndroidSample/app/src/test/java/com/example/emotionsdemo/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/AndroidSample/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/AndroidSample/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/AndroidSample/gradle/libs.versions.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/AndroidSample/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/AndroidSample/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/AndroidSample/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/AndroidSample/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/AndroidSample/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/PythonDemo (Console)/brainbit_emotions_console_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/PythonDemo (PyQt)/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/cybergarden2024/students/PythonDemo (PyQt)/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/Assets/Plugins.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/Assets/Plugins/Android.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/Assets/Plugins/Android/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/Assets/Plugins/Android/AndroidManifest.xml.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/Assets/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/Assets/Scenes/MainScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/Assets/Scenes/MainScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/Assets/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/Assets/Scripts/BrainBitController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/Assets/Scripts/BrainBitController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/Assets/Scripts/DeviceListEntryController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/Assets/Scripts/DeviceListEntryController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/Assets/Scripts/MainWindowController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/Assets/Scripts/MainWindowController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/Assets/Scripts/ViewKeeper.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/Assets/Scripts/ViewKeeper.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/Assets/UI Toolkit.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/Assets/UI Toolkit/DeviceListEntry.uxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/Assets/UI Toolkit/DeviceListEntry.uxml.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/Assets/UI Toolkit/MainWindow.uxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/Assets/UI Toolkit/MainWindow.uxml.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/Assets/UI Toolkit/PanelSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/Assets/UI Toolkit/PanelSettings.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/Assets/UI Toolkit/UnityThemes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/Assets/UI Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/Assets/UI Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/Packages/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/Packages/packages-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/ProjectSettings/AudioManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/ProjectSettings/ClusterInputManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/ProjectSettings/DynamicsManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/ProjectSettings/EditorSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/ProjectSettings/GraphicsSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/ProjectSettings/InputManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/ProjectSettings/MemorySettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/ProjectSettings/NavMeshAreas.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/ProjectSettings/PackageManagerSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/ProjectSettings/Physics2DSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/ProjectSettings/PresetManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/ProjectSettings/ProjectSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/ProjectSettings/ProjectVersion.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/ProjectSettings/QualitySettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/ProjectSettings/SceneTemplateSettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/ProjectSettings/TagManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/ProjectSettings/TimeManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/ProjectSettings/TimelineSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/ProjectSettings/VFXManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/ProjectSettings/VersionControlSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/ProjectSettings/XRSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/UIElementsSchema/UIElements.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/UIElementsSchema/Unity.Profiling.Editor.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/UIElementsSchema/Unity.UI.Builder.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/UIElementsSchema/UnityEditor.Experimental.GraphView.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/UIElementsSchema/UnityEditor.Overlays.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/UIElementsSchema/UnityEditor.PackageManager.UI.Internal.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/UIElementsSchema/UnityEditor.Search.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/UIElementsSchema/UnityEditor.ShortcutManagement.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/UIElementsSchema/UnityEditor.UIElements.Debugger.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/UIElementsSchema/UnityEditor.UIElements.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybergarden2024/students/UnitySample/UIElementsSchema/UnityEngine.UIElements.xsd" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/cybergarden2024" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;elizvetame&quot;
+  }
+}</component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="d230692f-bc74-43ed-a572-1bd27f19afcf" />
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MarshalX/yandex-music-api&quot;,
+    &quot;accountId&quot;: &quot;d230692f-bc74-43ed-a572-1bd27f19afcf&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2pDEvBKUY0NJkKYxKIdOg44jl0E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Web_client.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Web_socket client.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/melni/PycharmProjects/game&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="Web_client" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject3" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Web_client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject3" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cybergarden2024/students/PythonDemo (PyQt)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cybergarden2024/students/PythonDemo (PyQt)/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.Web_client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8cc33e89-b015-4f72-be67-d20b92a28cce" name="Changes" comment="" />
+      <created>1732292474166</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732292474166</updated>
+    </task>
+    <servers />
+  </component>
+</project>
